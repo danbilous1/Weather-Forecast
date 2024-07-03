@@ -1,3 +1,4 @@
-Weather Forecast for 5 days, for almost every city.
+Weather Forecast for 5 days with icons, temperature, weather description. 
+Available for almost every city.
 
-ATTENTION. Can be some problems, because project was made with API.
+Warning. While using the project, might be some errors, because API can be outdated.
