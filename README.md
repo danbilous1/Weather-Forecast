@@ -1,7 +1,7 @@
 # Weather Forecast Program
 
 ### Features
-- Look up for city, you would like to see weather for in Search Bar.
+- Type in your city, you would like to see weather for in Search Bar.
 - Forecast for 5 days, which includes weather icons, temperature and weather description.
 
 ### Test it out:
